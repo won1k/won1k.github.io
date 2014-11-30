@@ -23,8 +23,13 @@
 			<header id="header">
 				<a href="#" class="image avatar"><img src="images/icon.jpg" alt="" /></a>
 				<h1><strong>My name is Won</strong>, and I'm a<br />
-				Ph.D. student and researcher<br />
+				Ph.D. student + researcher<br />
 				in quantum information.</h1>
+				<ul>
+				  <li><a href="#one">Brief Bio</a></li>
+				  <li><a href="#two">Recent Work</a></li>
+				  <li><a href="#three">Contact Me</a></li>
+				</ul>
 			</header>
 
 		<!-- Main -->
@@ -448,10 +453,10 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 					<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 					<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></lie>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; Won I. Lee</li><!--<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>-->
+					<li>&copy; 2014 Won I. Lee</li><!--<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>-->
 				</ul>
 			</footer>
 

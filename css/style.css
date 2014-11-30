@@ -708,6 +708,9 @@
 					top: 0;
 					width: 1em;
 				}
+		ul#menu {
+			list-style: none;
+		}
 
 	dl {
 		margin: 0 0 2em 0;

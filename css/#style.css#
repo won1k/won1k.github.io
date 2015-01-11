@@ -41,8 +41,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #b8860b;
-		text-decoration: none;
+		color: #b8860b;		text-decoration: none;
 	}
 
 		a:hover {
@@ -976,7 +975,7 @@
 /* Footer */
 
 	#footer {
-		bottom: 0pt;
+		bottom: -23pt;
 		left: 0;
 		padding: 0 4em 6em 0;
 		position: fixed;

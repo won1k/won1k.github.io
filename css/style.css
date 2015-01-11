@@ -713,6 +713,11 @@
 		}
 		ul#pubs {
 			list-style: none;
+			padding-left: 37px;
+			text-indent: -37px;
+		}
+		li#pub {
+		       margin: 0 0 7px 0;
 		}
 
 	dl {

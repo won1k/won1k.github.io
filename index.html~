@@ -98,7 +98,12 @@ on Focused Ion Beam Milled Patterns of Single Crystal Diamonds</a>. <i>Mater Res
 						<p><a href="notes/6.436_notes.pdf">Probability + Measure Theory</a>: Based on combination of 6.436 course at MIT (Prof. D. Gamarnik, with notes by Prof. D. Bertsekas), D. Williams' excellent text (<i>Probability with Martingales</i>, 2013), and text by G. Grimmett and D. Stirzaker (<i>Probability and Random Processes</i>, 2009)</p>
 						<p><a href="notes/stat220_notes.pdf">Bayesian Data Analysis</a>: Outline, derivations, and notes to clarify main topics in Bayesian analysis; topics loosely based on Stat 220 course at Harvard (Prof. J. Liu); material based on Gelman et al. (<i>BDA</i>, 2014) and Hoff (<i>A First Course in Bayesian Statistical Methods</i>, 2010)</p>
 						<p><a href="notes/stat244_notes.pdf">Linear and Generalized Linear Models</a>: Based on Prof. A. Agresti's course at Harvard (Stat 244) and text (<i>Introduction to Linear and Generalized Linear Models</i>, 2014).</p>
+						<h3>Short Notes + Tutorials</h3>
+						<p><a href="notes/intro_r.pdf">Introduction to R</a>: Prepared for students of Stat 102, 107, 111, and 139 at Harvard.</p>
+						<p><a href="notes/markov.pdf">Markov Chains and Stationarity</a>: Written as a concise and definite introduction to definitions of Markov chain properties and results for stationarity.</p>
 					</section>
+
+<iframe src="https://read.rifflebooks.com/list/167251/embed" scrolling="auto" frameborder="0" width="100%" height="630" style=""></iframe>
 
 				<!-- Four -->
 				<!--

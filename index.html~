@@ -55,8 +55,16 @@
 						<p>I have been working on a number of projects in statistical computing, Monte Carlo, and information. Other recent projects include network modeling and inference in a massive virtual multiplayer environment and computational agent-based models of social welfare.</p>
 						<h3>Publications</h3>
 						<ul id="pubs">
-						  <li>R. I. McDonald, J. P. Guilinger, S. Mukherji, E. A. Curtis, W. I. Lee, D. R. Liu (2014). <a href="papers/rna_2014.pdf">Electrophilic Activity-Based Probes Reveal a Self-Alkylating RNA for RNA Labeling</a>. <i>Nature Chemical Biology</i> 10: 1049-1054.
+						  <li id="pub">R. I. McDonald, J. P. Guilinger, S. Mukherji, E. A. Curtis, W. I. Lee, D. R. Liu (2014). <a href="http://www.nature.com/nchembio/journal/v10/n12/full/nchembio.1655.html">Electrophilic Activity-Based Probes Reveal a Self-Alkylating RNA for RNA Labeling</a>. <i>Nature Chemical Biology</i> 10: 1049-1054.</li>
+						  <li id="pub">R. Golnabi, W. I. Lee, D. Kim, and G. R. Kowach (2012). <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8503746&fileId=S1946427412004459">Effects of Crystallographic Planes
+on Focused Ion Beam Milled Patterns of Single Crystal Diamonds</a>. <i>Mater Res Soc Symp Proc</i> 1395.</li>
+						  <li id="pub">R. Golnabi, W. I. Lee, D. Kim, and G. R. Kowach (2011). <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8195356">Focused Ion Beam Milling of Crystalline Diamonds</a>. <i> Mater Res Soc Symp Proc</i> 1282.</li>
 						</ul>
+						<h3>Presentations</h3>
+						<ul id="pubs">
+						  <li id="pub">W. I. Lee (2011). Reprogramming Efficiencies of PEI Transfection in Murine Induced Pluripotent Stem Cel Generation. <i>GRC on Stem Cells & Cancer</i>.</li>
+						</ul>
+
 						<!--<a href="publications.pdf" class="button">Complete List of Publications</a>-->
 					</section>
 
@@ -67,9 +75,9 @@
 						<center><p><i>"I couldn't reduce it to the freshman level. That means we really don't understand it."</i></p></center>
 						<p>I was fortunate to start teaching at an early point as an undergrad. Some courses I have served as a Teaching Fellow/Assistant in the past include:</p>
 <ul>
-<li><b>CS 205</b> (Harvard, Spring 2015): Parallel Computing</li>
 <li><b>Econ 2020b</b> (Harvard, Spring 2015): Microeconomic Theory II: Game Theory</li>
 <li><b>Stat 139</b> (Harvard, Spring 2015): Linear Models</li>
+<li><b>Stat 111</b> (Harvard, Spring 2015): Introduction to Theoretical Statistics</li>
 <li><b>AM 115</b> (Harvard, Spring 2015): Mathematical Modeling</li>
 <li><b>Stat 110</b> (Harvard, Fall 2014): Introduction to Probability</li>
 <li><b>Phys 15a</b> (Harvard, Spring 2013): Mechanics + Special Relativity</li>

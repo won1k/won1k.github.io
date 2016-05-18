@@ -46,8 +46,8 @@
 	}
 
 		a:hover {
-			border-bottom-color: dotted 1px;
-			color: #545454 !important;
+			border-bottom: dotted 1px;
+			color: #000000 !important;
 			text-decoration: none;
 		}
 

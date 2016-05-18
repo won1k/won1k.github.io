@@ -944,7 +944,7 @@
 	#header {
 		background-color: #ffffff;
 		background-size: auto,								auto 100%;
-		color: rgba(255, 255, 255, 0.5);
+		/*color: rgba(255, 255, 255, 0.5);*/
 		height: 60%;
 		position: fixed;
 		text-align: center;

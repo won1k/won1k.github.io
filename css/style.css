@@ -40,13 +40,13 @@
 		-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		border-bottom: transparent;
 		color: #545454;
 		text-decoration: none;
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
+			border-bottom-color: dotted 1px;
 			color: #545454 !important;
 			text-decoration: none;
 		}
@@ -950,6 +950,7 @@
 		text-align: center;
 		top: 0;
 		width: 100%;*/
+		text-align: center;
 	}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -957,8 +958,8 @@
 		}
 
 		#header h1 {
-			font-size: 1.5em;
-			line-height: 1.75em;
+			font-size: 2em;
+			line-height: 2.5em;
 			margin: 0;
 		}
 

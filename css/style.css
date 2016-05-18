@@ -1029,11 +1029,6 @@
 		text-decoration: none;
 	}
 
-	#mainmenu a:hover {
-		color: #a90000 !important;
-		text-decoration: underline;
-	}
-
 	#main {
 		margin-left: 35%;
 		max-width: 54em;

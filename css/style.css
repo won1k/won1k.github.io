@@ -944,12 +944,12 @@
 	#header {
 		/*background-color: #ffffff;
 		background-size: auto,								auto 100%;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.5);*/
 		height: 60%;
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 100%;*/
+		width: 100%;
 	}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -1023,6 +1023,16 @@
 				}
 
 /* Main */
+
+	#mainmenu {
+		text-align: center;
+		color: #ebebeb;
+	}
+
+	#mainmenu a:hover {
+		color: #a90000 !important;
+		text-decoration: none;
+	}
 
 	#main {
 		margin-left: 35%;

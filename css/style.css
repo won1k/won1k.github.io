@@ -954,7 +954,8 @@
 		text-align: center;
 		margin-left: auto;
 		margin-right: auto;
-		top: 50px;
+		margin-top: 50px;
+		margin-bottom: -5px;
 	}
 		#header img {
 			filter: gray; /* IE6-9 */

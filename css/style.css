@@ -952,19 +952,19 @@
 		width: 100%;*/
 		width: 100%;
 		text-align: center;
-		/*margin-left: auto;
+		margin-left: auto;
 		margin-right: auto;
 		margin-top: 150px;
-		margin-bottom: -15px;*/
+		margin-bottom: -15px;
 
 		/*-webkit-transform-style: preserve-3d;
   		-moz-transform-style: preserve-3d;
-  		transform-style: preserve-3d;*/
+  		transform-style: preserve-3d;
   		position: relative;
   		top: 50%;
   		-webkit-transform: translateY(-50%);
   		-ms-transform: translateY(-50%);
-  		transform: translateY(-50%);
+  		transform: translateY(-50%);*/
 	}
 		#header img {
 			filter: gray; /* IE6-9 */

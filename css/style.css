@@ -1070,7 +1070,18 @@
 
 	/* Other Page Header */
 	#header {
-		
+		text-align: center;
+	}
+
+	/* Other Page Content */
+	#content {
+		text-align: center;
+		width: 60%;
+		position: relative;
+  		left: 50%;
+  		-webkit-transform: translateY(-50%);
+  		-ms-transform: translateY(-50%);
+  		transform: translateY(-50%);
 	}
 
 /* Poptrox */

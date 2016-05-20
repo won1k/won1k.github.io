@@ -941,7 +941,7 @@
 
 /* Header */
 
-	#header {
+	#mainheader {
 		/*background-color: #ffffff;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);*/
@@ -966,35 +966,35 @@
   		-ms-transform: translateY(-50%);
   		transform: translateY(-50%);*/
 	}
-		#header img {
+		#mainheader img {
 			filter: gray; /* IE6-9 */
   			filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
   			-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
   			margin-bottom: -10px;
 		}
 
-		#header h2, #header h3, #header h4, #header h5, #header h6 {
+		#mainheader h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
 		}
 
-		#header h1 {
+		#mainheader h1 {
 			font-size: 4.8em;
 			/*line-height: 2.5em;*/
 			margin: 0;
 		}
 
-		#header .image.avatar {
+		#mainheader .image.avatar {
 			margin: 0 0 0em 0;
 			width: 6.25em;
 		}
 		
-		#header li {
+		#mainheader li {
 			font-size: 1.25em;
 			line-height: 1.5em;
 			margin: 0;
 		}
 		
-		#header a {
+		#mainheader a {
 			color: #ebebeb;
 		}
 
@@ -1067,6 +1067,11 @@
 				margin-top: 0;
 				padding-top: 0;
 			}
+
+	/* Other Page Header */
+	#header {
+		
+	}
 
 /* Poptrox */
 	@-moz-keyframes spin { 0% { -moz-transform: rotate(0deg); -webkit-transform: rotate(0deg); -o-transform: rotate(0deg); -ms-transform: rotate(0deg); transform: rotate(0deg); } 100% { -moz-transform: rotate(360deg); -webkit-transform: rotate(360deg); -o-transform: rotate(360deg); -ms-transform: rotate(360deg); transform: rotate(360deg); } }

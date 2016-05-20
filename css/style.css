@@ -1002,6 +1002,7 @@
 
 	#footer {
 		bottom: 15pt;
+		position: fixed;
 		text-align: center;
 		width: 100%;
 	}

@@ -1047,7 +1047,7 @@
 		text-align: center;
 		color: #545454;
 		text-decoration: none;
-		margin-bottom: 20px;
+		padding-bottom: 20px;
 	}
 
 	#main {
@@ -1072,7 +1072,7 @@
 	/* Other Page Header */
 	#header {
 		text-align: center;
-		margin-bottom: -20px;
+		padding-bottom: -20px;
 	}
 
 	/* Other Page Content */
